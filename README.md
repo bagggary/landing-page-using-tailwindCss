@@ -1,2 +1,2 @@
 # landing-page-using-tailwindCss
-landing page using tailwindCss - "udemy couse"
+landing page using tailwindCss - "udemy course"
